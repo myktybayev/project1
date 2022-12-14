@@ -1,2 +1,2 @@
 login = "vasya123@gmail.com"
-password = "qwerty"
+password = "qwerty1234"
